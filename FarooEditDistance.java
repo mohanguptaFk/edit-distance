@@ -4,7 +4,22 @@ import java.util.*;
 
 
 /**
- * Created by mohan.gupta on 08/02/16.
+ * Created by mohangupta13 on 08/02/16.
+ * Java implementation of Faroo's algo to find dictionary words at X edit distance of a word.
+
+http://blog.faroo.com/2012/06/07/improved-edit-distance-based-spelling-correction/
+
+If you need to reach out to me for any help: mohangupta13@gmail.com
+
+Most of the logic is just a port from the official C# implementation.
+
+Licence:
+There is no licence, you are free to modify, tear apart, sell, buy or throw away the above code.
+
+Correctness:
+The code is fully functional & correct and being used in production to server millions 
+of users a day as of this writing. Having said that I take no responsibility 
+for the correctness/performance or any good or bad effect of the code whatsoever.
  * A basic implementation of faroos.
  */
 public class FarooEditDistance {
