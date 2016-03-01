@@ -11,4 +11,4 @@ Licence:
 There is no licence, you are free to modify, tear apart, sell, buy or throw away the above code.
 
 Correctness:
-The code is fully functional & correct and being used in production to server millions of users a day as of this writing. Having said that I take no responsibility for the correctness/performance or any good or bad effect of the code whatsoever.
+The code is fully functional & correct as of this writing. Having said that I take no responsibility for the correctness/performance or any good or bad effect of the code whatsoever.
